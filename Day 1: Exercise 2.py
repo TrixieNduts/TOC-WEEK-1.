@@ -2,8 +2,8 @@ import sys
 
 def main():
 
-    x = float(input(" Kindly input the value of X ="))
-    y = float(input(" Kindly input the value of Y ="))
+    x = float(input(" Kindly input the value of x ="))
+    y = float(input(" Kindly input the value of y ="))
 
     print(f"SUM = {x + y}")
     return 0
